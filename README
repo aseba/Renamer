@@ -2,6 +2,10 @@ I  just got the script from a friends computer and added in order to use
 it in my OSx. It's the original 'prename' command that comes from Debian
 repositories
 
+Usage:
+perl renamer.pl 's/(\d+).*\.([\w]+)/$1.$2/' *.*
+That command will replace all files named [somenumber]foo.bar to [somenumber].bar
+
 This script was developed by Robin Barker (Robin.Barker@npl.co.uk),
 from Larry Wall's original script eg/rename from the perl source.
 
