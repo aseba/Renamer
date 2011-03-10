@@ -1,0 +1,33 @@
+I  just got the script from a friends computer and added in order to use
+it in my OSx. It's the original 'prename' command that comes from Debian
+repositories
+
+This script was developed by Robin Barker (Robin.Barker@npl.co.uk),
+from Larry Wall's original script eg/rename from the perl source.
+
+This script is free software; you can redistribute it and/or modify it
+under the same terms as Perl itself.
+
+Larry(?)'s RCS header:
+RCSfile: rename,v   Revision: 4.1   Date: 92/08/07 17:20:30 
+
+$RCSfile: rename,v $$Revision: 1.5 $$Date: 1998/12/18 16:16:31 $
+
+$Log: rename,v $
+Revision 1.5  1998/12/18 16:16:31  rmb1
+moved to perl/source
+changed man documentation to POD
+
+Revision 1.4  1997/02/27  17:19:26  rmb1
+corrected usage string
+
+Revision 1.3  1997/02/27  16:39:07  rmb1
+added -v
+
+Revision 1.2  1997/02/27  16:15:40  rmb1
+*** empty log message ***
+
+Revision 1.1  1997/02/27  15:48:51  rmb1
+Initial revision
+
+
